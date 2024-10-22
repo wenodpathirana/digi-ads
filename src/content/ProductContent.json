@@ -1,4 +1,9 @@
 {
   "title": "That's about it!",
-  "text": "If you are familiar with React, or SPA frameworks in general, there shouldn't be any confusing parts about this template. if not, you can always reach out to me and I'll try me best to answer your questions."
+  "text": "Ready to take your brand to new heights in the digital world? At DigiAds, we’re here to help you achieve your marketing goals with innovative strategies and measurable results. Whether you need a full digital overhaul or targeted campaign support, we’re just a message away.",
+  "button": [
+    {
+      "title": "Contact"
+    }
+  ]
 }

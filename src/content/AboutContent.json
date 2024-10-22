@@ -1,15 +1,15 @@
 {
-  "title": "Light, fast & responsive",
-  "text": "This template is ready to use, so you don't need to change anything at a component level, unless you want to customize the default styling.",
+  "title": "About Us",
+  "text": "At DigiAds, we’re passionate about transforming brands through innovative digital marketing strategies. With a team of creative minds and data-driven experts, we combine the art of storytelling with the power of technology to deliver impactful results. Our approach is tailored to your brand’s unique goals, ensuring that every campaign is personalized for maximum effectiveness.",
   "section": [
     {
-      "title": "Why Antd?",
-      "content": "Ant Design is a React UI library that has a lot of easy-to-use components for building elegant UI.",
+      "title": "Specialized in Advertising",
+      "content": "We specialize in digital advertising, content creation, social media management, and performance marketing, all designed to boost your online presence and drive growth.",
       "icon": "notes.svg"
     },
     {
-      "title": "Why styled-components?",
-      "content": "Styled Components gives you total control over your components.",
+      "title": "Partnership",
+      "content": "Partner with us to unlock your brand’s full potential in the ever-evolving digital landscape.",
       "icon": "notes.svg"
     }
   ]
