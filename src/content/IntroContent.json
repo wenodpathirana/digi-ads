@@ -2,12 +2,8 @@
   "title": "Where Creativity Meets Strategy",
   "text": "DigiAds delivers innovative digital marketing solutions tailored to your brand’s unique needs. We specialize in data-driven strategies, creative content, and precise targeting to help you reach the right audience. From boosting online visibility to driving conversions, we’re here to elevate your brand and achieve measurable digital success.",
   "button": [
-    // {
-    //   "title": "Explore"
-    // },
     {
-      "title": "Learn more",
-      "color": "#fff"
+      "title": "Learn more"
     }
   ]
 }
