@@ -63,7 +63,7 @@ const Footer = ({ t }: { t: TFunction }) => {
             <Col lg={8} md={8} sm={12} xs={12}>
               
               <Language>{t("Address")}</Language>
-              <Large to="/">{t("Wenod Pathirana")}</Large>
+              <Large to="/">{t("DigiAds Marketing")}</Large>
               <Large to="/">{t("75/14 Abeygunratne Mw")}</Large>
               <Large to="/">{t("Matara")}</Large>
             </Col>
